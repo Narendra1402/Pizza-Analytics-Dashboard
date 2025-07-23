@@ -161,5 +161,10 @@ ORDER BY Total_order ASC;
 - Designing user-friendly layouts with interactive slicers and ranking visuals.
 - Gained hands-on experience with data storytelling using real-world metrics.
 
+## 🔗 Connect With Me  
+Feel free to explore more of my projects and reach out:  
+- [LinkedIn](https://www.linkedin.com/in/narendrasingh1402)
+- [YouTube](https://www.youtube.com/@Analyst_Hive)  
+- [Portfolio](https://narendra1402.github.io/)
 
 
